@@ -1,0 +1,468 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.img-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.img-wrapper-1 {
+  position: absolute;
+  height: 44.72%;
+  width: 25.56%;
+  top: 5.46%;
+  right: 68.19%;
+  bottom: 49.81%;
+  left: 6.25%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.img-wrapper-2 {
+  position: absolute;
+  height: 44.72%;
+  width: 25.56%;
+  top: 5.46%;
+  right: 68.19%;
+  bottom: 49.81%;
+  left: 6.25%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 44.26%;
+  width: 29.58%;
+  top: 55.74%;
+  right: 6.94%;
+  bottom: 0;
+  left: 63.47%;
+}
+
+.img-wrapper-3 {
+  position: absolute;
+  height: 44.72%;
+  width: 25.56%;
+  top: 5.46%;
+  right: 68.19%;
+  bottom: 49.81%;
+  left: 6.25%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 44.26%;
+  width: 29.58%;
+  top: 55.74%;
+  right: 6.94%;
+  bottom: 0;
+  left: 63.47%;
+  height: 43.52%;
+  width: 23.19%;
+  top: 8.98%;
+  right: 7.64%;
+  bottom: 47.5%;
+  left: 69.17%;
+}
+
+.img-wrapper-4 {
+  position: absolute;
+  height: 44.72%;
+  width: 25.56%;
+  top: 5.46%;
+  right: 68.19%;
+  bottom: 49.81%;
+  left: 6.25%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 44.26%;
+  width: 29.58%;
+  top: 55.74%;
+  right: 6.94%;
+  bottom: 0;
+  left: 63.47%;
+  height: 43.52%;
+  width: 23.19%;
+  top: 8.98%;
+  right: 7.64%;
+  bottom: 47.5%;
+  left: 69.17%;
+  height: 43.33%;
+  width: 25.56%;
+  top: 56.67%;
+  right: 68.19%;
+  bottom: 0;
+  left: 6.25%;
+}
+
+.img-wrapper-11 {
+  position: absolute;
+  height: 39.35%;
+  width: 35%;
+  top: 10.65%;
+  right: 31.81%;
+  bottom: 50%;
+  left: 33.19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 41.3%;
+  width: 30.07%;
+  top: 55.74%;
+  right: 37.43%;
+  bottom: 2.96%;
+  left: 32.5%;
+  height: 43.33%;
+  width: 25.56%;
+  top: 101.2%;
+  right: 68.19%;
+  bottom: -44.54%;
+  left: 6.25%;
+  flex-direction: row;
+  height: 41.3%;
+  width: 30.07%;
+  top: 103.24%;
+  right: 36.74%;
+  left: 33.19%;
+  flex-direction: column;
+  height: 44.26%;
+  width: 29.58%;
+  right: 6.94%;
+  bottom: -47.5%;
+  left: 63.47%;
+  flex-direction: row;
+  height: 43.52%;
+  width: 23.19%;
+  top: -45.65%;
+  bottom: 102.13%;
+  left: 69.86%;
+  height: 39.35%;
+  width: 35%;
+  top: -42.59%;
+  right: 32.5%;
+  bottom: 103.24%;
+  left: 32.5%;
+  flex-direction: column;
+  height: 44.72%;
+  width: 25.56%;
+  top: -45.65%;
+  right: 68.19%;
+  bottom: 100.93%;
+  left: 6.25%;
+  flex-direction: row;
+}
+
+.img-wrapper-21 {
+  position: absolute;
+  height: 39.35%;
+  width: 35%;
+  top: 10.65%;
+  right: 31.81%;
+  bottom: 50%;
+  left: 33.19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 41.3%;
+  width: 30.07%;
+  top: 55.74%;
+  right: 37.43%;
+  bottom: 2.96%;
+  left: 32.5%;
+  height: 43.33%;
+  width: 25.56%;
+  top: 101.2%;
+  right: 68.19%;
+  bottom: -44.54%;
+  left: 6.25%;
+  flex-direction: row;
+  height: 41.3%;
+  width: 30.07%;
+  top: 103.24%;
+  right: 36.74%;
+  left: 33.19%;
+  flex-direction: column;
+  height: 44.26%;
+  width: 29.58%;
+  right: 6.94%;
+  bottom: -47.5%;
+  left: 63.47%;
+  flex-direction: row;
+}
+
+.img-wrapper-31 {
+  position: absolute;
+  height: 39.35%;
+  width: 35%;
+  top: 10.65%;
+  right: 31.81%;
+  bottom: 50%;
+  left: 33.19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 41.3%;
+  width: 30.07%;
+  top: 55.74%;
+  right: 37.43%;
+  bottom: 2.96%;
+  left: 32.5%;
+  height: 43.33%;
+  width: 25.56%;
+  top: 101.2%;
+  right: 68.19%;
+  bottom: -44.54%;
+  left: 6.25%;
+  flex-direction: row;
+  height: 41.3%;
+  width: 30.07%;
+  top: 103.24%;
+  right: 36.74%;
+  left: 33.19%;
+  flex-direction: column;
+  height: 44.26%;
+  width: 29.58%;
+  right: 6.94%;
+  bottom: -47.5%;
+  left: 63.47%;
+  flex-direction: row;
+  height: 43.52%;
+  width: 23.19%;
+  top: -45.65%;
+  bottom: 102.13%;
+  left: 69.86%;
+}
+
+.img-wrapper-41 {
+  position: absolute;
+  height: 39.35%;
+  width: 35%;
+  top: 10.65%;
+  right: 31.81%;
+  bottom: 50%;
+  left: 33.19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 41.3%;
+  width: 30.07%;
+  top: 55.74%;
+  right: 37.43%;
+  bottom: 2.96%;
+  left: 32.5%;
+  height: 43.33%;
+  width: 25.56%;
+  top: 101.2%;
+  right: 68.19%;
+  bottom: -44.54%;
+  left: 6.25%;
+  flex-direction: row;
+}
+
+.img-wrapper-5 {
+  position: absolute;
+  height: 39.35%;
+  width: 35%;
+  top: 10.65%;
+  right: 31.81%;
+  bottom: 50%;
+  left: 33.19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.img-wrapper-51 {
+  position: absolute;
+  height: 39.35%;
+  width: 35%;
+  top: 10.65%;
+  right: 31.81%;
+  bottom: 50%;
+  left: 33.19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 41.3%;
+  width: 30.07%;
+  top: 55.74%;
+  right: 37.43%;
+  bottom: 2.96%;
+  left: 32.5%;
+  height: 43.33%;
+  width: 25.56%;
+  top: 101.2%;
+  right: 68.19%;
+  bottom: -44.54%;
+  left: 6.25%;
+  flex-direction: row;
+  height: 41.3%;
+  width: 30.07%;
+  top: 103.24%;
+  right: 36.74%;
+  left: 33.19%;
+  flex-direction: column;
+  height: 44.26%;
+  width: 29.58%;
+  right: 6.94%;
+  bottom: -47.5%;
+  left: 63.47%;
+  flex-direction: row;
+  height: 43.52%;
+  width: 23.19%;
+  top: -45.65%;
+  bottom: 102.13%;
+  left: 69.86%;
+  height: 39.35%;
+  width: 35%;
+  top: -42.59%;
+  right: 32.5%;
+  bottom: 103.24%;
+  left: 32.5%;
+  flex-direction: column;
+}
+
+.img-wrapper-6 {
+  position: absolute;
+  height: 39.35%;
+  width: 35%;
+  top: 10.65%;
+  right: 31.81%;
+  bottom: 50%;
+  left: 33.19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 41.3%;
+  width: 30.07%;
+  top: 55.74%;
+  right: 37.43%;
+  bottom: 2.96%;
+  left: 32.5%;
+}
+
+.img-wrapper-61 {
+  position: absolute;
+  height: 39.35%;
+  width: 35%;
+  top: 10.65%;
+  right: 31.81%;
+  bottom: 50%;
+  left: 33.19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 41.3%;
+  width: 30.07%;
+  top: 55.74%;
+  right: 37.43%;
+  bottom: 2.96%;
+  left: 32.5%;
+  height: 43.33%;
+  width: 25.56%;
+  top: 101.2%;
+  right: 68.19%;
+  bottom: -44.54%;
+  left: 6.25%;
+  flex-direction: row;
+  height: 41.3%;
+  width: 30.07%;
+  top: 103.24%;
+  right: 36.74%;
+  left: 33.19%;
+  flex-direction: column;
+}
+
+.home {
+  width: 100%;
+  position: relative;
+  background-color: #000;
+  height: 100vh;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 1200px) {
+  .home {
+    height: 860px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .home {
+    height: 660px;
+  }
+}
+@media screen and (max-width: 420px) {
+  .home {
+    height: 280px;
+  }
+}
+@media screen and (max-width: 350px) {
+  .home {
+    height: 260px;
+  }
+}
+img {
+  opacity: 0 !important;
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.img-container {
+  width: 100%;
+  height: 1580px;
+}
+
+/*# sourceMappingURL=/style.ff1c4cab.css.map */
